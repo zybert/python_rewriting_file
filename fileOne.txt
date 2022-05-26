@@ -1,0 +1,12 @@
+  pierwsza linia  tekstu
+druga linia tekstu
+
+
+  trzecia linia tekstu 
+czwarta linia tekstu
+piąta linia
+
+
+
+
+
